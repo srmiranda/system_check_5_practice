@@ -5,6 +5,7 @@
 #
 #   Person.create(first_name: 'Eric', last_name: 'Kelly')
 
+# save this seeder for other projects
 
 Developer.create(name: "John Smith", email: "jsmith@gmail.com", phone_number: "555-555-5555")
 Developer.create(name: "Shawn O'Malley", email: "somalley@gmail.com", phone_number: "555-555-5555")
